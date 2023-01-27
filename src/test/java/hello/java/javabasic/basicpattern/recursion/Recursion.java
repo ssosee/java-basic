@@ -8,7 +8,7 @@ public class Recursion {
     void test() {
         //countDown(5);
         //System.out.println(sumRange(3));
-        System.out.println(factorial(5));
+        System.out.println(factorial(100));
     }
     void countDown(int num) {
         if(num <= 0) {
